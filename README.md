@@ -16,7 +16,7 @@ Este repositório contém automações utilizando [Cypress](https://www.cypress.
 
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone <[url-do-repositorio](https://github.com/fabiano00760/Automacao_API_WebCypress.git)>
    ```
 
 2. Instale as dependências:
